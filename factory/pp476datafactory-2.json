@@ -1,0 +1,9 @@
+{
+	"name": "pp476datafactory-2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d884be7d-fcbc-4875-96c6-a929982ef5c7",
+		"tenantId": "5acef810-7a41-43f1-aa24-6255fc79d6e3"
+	}
+}
