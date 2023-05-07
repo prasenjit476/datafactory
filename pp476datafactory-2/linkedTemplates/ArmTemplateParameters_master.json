@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "pp476datafactory-2"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
